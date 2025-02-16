@@ -1,0 +1,3 @@
+{
+  "extends": ["next/bebel","next/core-web-vitals"]
+}
